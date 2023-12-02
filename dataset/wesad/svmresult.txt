@@ -1,0 +1,55 @@
+Fold 0:
+              precision    recall  f1-score   support
+
+        HALV       0.00      0.00      0.00      3093
+        LAHV       0.72      1.00      0.84      9445
+        LALV       0.00      0.00      0.00       584
+
+    accuracy                           0.72     13122
+   macro avg       0.24      0.33      0.28     13122
+weighted avg       0.52      0.72      0.60     13122
+
+Fold 1:
+              precision    recall  f1-score   support
+
+        HAHV       1.00      0.01      0.02      3014
+        HALV       0.00      0.00      0.00       980
+        LAHV       0.69      1.00      0.82      8942
+
+    accuracy                           0.69     12936
+   macro avg       0.56      0.34      0.28     12936
+weighted avg       0.71      0.69      0.57     12936
+
+Fold 2:
+              precision    recall  f1-score   support
+
+        HAHV       0.00      0.00      0.00      3128
+        HALV       0.00      0.00      0.00       988
+        LAHV       0.68      1.00      0.81      8675
+
+    accuracy                           0.68     12791
+   macro avg       0.23      0.33      0.27     12791
+weighted avg       0.46      0.68      0.55     12791
+
+Fold 3:
+
+              precision    recall  f1-score   support
+
+        HAHV       0.00      0.00      0.00       928
+        HALV       0.00      0.00      0.00      2548
+        LAHV       0.73      1.00      0.84      9421
+
+    accuracy                           0.73     12897
+   macro avg       0.24      0.33      0.28     12897
+weighted avg       0.53      0.73      0.62     12897
+
+Fold 4:
+              precision    recall  f1-score   support
+
+        HAHV       0.16      0.26      0.19       924
+        HALV       0.00      0.00      0.00         0
+        LAHV       0.98      0.58      0.73     11699
+
+    accuracy                           0.55     12623
+   macro avg       0.38      0.28      0.31     12623
+weighted avg       0.92      0.55      0.69     12623
